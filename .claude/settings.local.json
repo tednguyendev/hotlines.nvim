@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nvim:*)",
+      "Bash(make test:*)",
+      "WebSearch",
+      "Bash(rbenv versions:*)",
+      "Bash(RBENV_VERSION=3.3.6 rails new:*)",
+      "Bash(new_repo)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
