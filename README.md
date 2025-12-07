@@ -43,7 +43,7 @@ require("hotlines").setup({
   -- Path to the coverage JSON file
   file = vim.fn.getcwd() .. '/tmp/hotlines.json',
 
-  -- File patterns to ignore (empty by default, configure per-project)
+  -- File patterns to ignore (empty by default)
   ignored = { "%.erb$", "%.html$" },
 
   -- Highlight color

@@ -6,7 +6,8 @@
       "WebSearch",
       "Bash(rbenv versions:*)",
       "Bash(RBENV_VERSION=3.3.6 rails new:*)",
-      "Bash(new_repo)"
+      "Bash(new_repo)",
+      "Bash(git remote add:*)"
     ],
     "deny": [],
     "ask": []
