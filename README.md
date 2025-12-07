@@ -2,7 +2,7 @@
 
 Real-time code coverage for development, not tests.
 
-**Requires Neovim 0.7+**
+https://github.com/user-attachments/assets/a8f143f2-ef58-48e7-9cd6-7e6db6d609b7
 
 ## Features
 
